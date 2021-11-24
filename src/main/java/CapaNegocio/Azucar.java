@@ -23,6 +23,6 @@ public class Azucar extends Ingrediente{
     }
     //declaracion de metodo
     public String SeleccionarTipo(){
-        return "este metodo aun no a sido implementado";
+        return "este metodo aun no a sido implementadoo";
     }
 }
